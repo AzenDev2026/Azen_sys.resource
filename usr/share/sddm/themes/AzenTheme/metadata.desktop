@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=Windows11-Dark-sddm
+Description=windows dark like style
+Author=zayronxio
+Copyright=(c) 2022, zayronxio
+License=gpl3.0
+Type=sddm-theme
+Version=0.2.4
+Website=https://github.com/varlesh/rounded
+Screenshot=screenshot.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=Windows11-Dark-sddm
+Theme-API=2.0
