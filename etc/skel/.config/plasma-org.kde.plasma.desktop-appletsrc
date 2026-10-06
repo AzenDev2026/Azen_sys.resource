@@ -97,7 +97,7 @@ DialogHeight=630
 DialogWidth=810
 
 [Containments][2][Applets][33][Configuration][General]
-appLaunchCounts={"applications:org.prismlauncher.PrismLauncher.desktop":{"total":1,"buckets":{"0-3":1}},"applications:net.nokyan.Resources.desktop":{"total":1,"buckets":{"0-3":1}},"applications:microsoft-edge.desktop":{"total":1,"buckets":{"1-2":1}},"applications:com.tencent.WeChat.desktop":{"total":1,"buckets":{"1-2":1}}}
+appLaunchCounts={"applications:org.prismlauncher.PrismLauncher.desktop":{"total":1,"buckets":{"0-3":1}},"applications:net.nokyan.Resources.desktop":{"total":1,"buckets":{"0-3":1}},"":{"total":1,"buckets":{"1-2":1}},"applications:com.tencent.WeChat.desktop":{"total":1,"buckets":{"1-2":1}}}
 customButtonImage=/usr/share/wallpapers/Azen/bluemtn.png
 favoritesPortedToKAstats=true
 icon=distributor-logo-windows
@@ -117,7 +117,7 @@ launchers=
 [Containments][2][Applets][6][Configuration][General]
 iconSpacing=0
 indicateAudioStreams=false
-launchers=applications:org.kde.dolphin.desktop,applications:com.microsoft.VSCode.desktop,applications:microsoft-edge.desktop,applications:chromium.desktop,applications:org.kde.discover.desktop,applications:org.kde.konsole.desktop,applications:systemsettings.desktop,applications:libreoffice-writer.desktop
+launchers=applications:org.kde.dolphin.desktop,applications:code.desktop,applications:chromium.desktop,applications:org.kde.discover.desktop,applications:org.kde.konsole.desktop,applications:systemsettings.desktop,applications:libreoffice-writer.desktop
 maxStripes=1
 
 [Containments][2][Applets][7]
