@@ -98,7 +98,7 @@ DialogWidth=810
 
 [Containments][2][Applets][33][Configuration][General]
 appLaunchCounts={"applications:org.prismlauncher.PrismLauncher.desktop":{"total":1,"buckets":{"0-3":1}},"applications:net.nokyan.Resources.desktop":{"total":1,"buckets":{"0-3":1}},"":{"total":1,"buckets":{"1-2":1}},"applications:com.tencent.WeChat.desktop":{"total":1,"buckets":{"1-2":1}}}
-customButtonImage=/usr/share/wallpapers/Azen/bluemtn.png
+customButtonImage=/usr/share/pixmaps/nvazen.png
 favoritesPortedToKAstats=true
 icon=distributor-logo-windows
 useCustomButtonImage=true
