@@ -112,12 +112,12 @@ immutability=1
 plugin=org.kde.plasma.icontasks
 
 [Containments][2][Applets][6][Configuration]
-launchers=
+launchers=applications:org.kde.dolphin.desktop,applications:org.kde.konsole.desktop,applications:firefox.desktop,applications:org.kde.spectacle.desktop,applications:systemsettings.desktop
 
 [Containments][2][Applets][6][Configuration][General]
 iconSpacing=0
 indicateAudioStreams=false
-launchers=applications:org.kde.dolphin.desktop,applications:code.desktop,applications:chromium.desktop,applications:org.kde.discover.desktop,applications:org.kde.konsole.desktop,applications:systemsettings.desktop,applications:libreoffice-writer.desktop
+launchers=applications:org.kde.dolphin.desktop,applications:org.kde.konsole.desktop,applications:firefox.desktop,applications:org.kde.spectacle.desktop,applications:systemsettings.desktop
 maxStripes=1
 
 [Containments][2][Applets][7]

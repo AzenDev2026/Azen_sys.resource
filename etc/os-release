@@ -1,0 +1,10 @@
+NAME="NVazen"
+PRETTY_NAME="NVazen Linux"
+ID=nvazen
+ID_LIKE=arch
+BUILD_ID=rolling
+LOGO=nvazen
+HOME_URL="https://github.com/AzenDev2026"
+DOCUMENTATION_URL="https://github.com/AzenDev2026"
+SUPPORT_URL="https://github.com/AzenDev2026"
+BUG_REPORT_URL="https://github.com/AzenDev2026"

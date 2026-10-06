@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+# 只在第一次登录时设置壁纸
+FLAG="$HOME/.config/nvazen-wallpaper-done"
+[[ -f "$FLAG" ]] && exit 0
+
+# 等 Plasma 完全启动
+sleep 5
+
+# 设置壁纸（用 Plasma 官方工具）
+plasma-apply-wallpaperimage /usr/share/wallpapers/Azen/bluemtn.png 2>/dev/null
+
+# 同时设置锁屏壁纸
+kwriteconfig6 --file kscreenlockerrc --group Greeter --group Wallpaper \
+  --group org.kde.image --group General --key Image \
+  "file:///usr/share/wallpapers/Azen/bluemtn.png" 2>/dev/null
+
+# 标记完成
+touch "$FLAG"
+
+# 自删 autostart 文件（只跑一次）
+rm -f "$HOME/.config/autostart/nvazen-set-wallpaper.desktop"

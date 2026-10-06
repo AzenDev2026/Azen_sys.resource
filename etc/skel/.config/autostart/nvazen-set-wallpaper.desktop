@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=NVazen Set Wallpaper
+Exec=/usr/local/bin/nvazen-set-wallpaper
+Terminal=false
+X-GNOME-Autostart-enabled=true
+OnlyShowIn=KDE;
