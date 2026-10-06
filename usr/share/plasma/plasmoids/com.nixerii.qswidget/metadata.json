@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "hillmanniklas@gmail.com",
+                "Name": "Nixerii"
+            }
+        ],
+        "Category": "Utilities",
+        "Description": "A KDE Plasma widget that allows you to search DuckDuckGo, Google, Youtube and other services from the desktop.",
+        "Icon": "about_kde",
+        "Id": "com.nixerii.qswidget",
+        "License": "GPL-3.0",
+        "Name": "Quick Search Widget",
+        "Version": "1.2.0",
+        "Website": "https://github.com/n1xerii/com.nixerii.qswidget"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+}

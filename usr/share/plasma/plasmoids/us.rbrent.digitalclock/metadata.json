@@ -1,0 +1,27 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Ricky Brent"
+            }
+        ],
+        "Id": "us.rbrent.digitalclock",
+        "Name": "Digital Clock Debarred",
+        "Description": "Time displayed in a digital format with no seperator",
+        "BugReportUrl": "https://github.com/rickybrent/plasmoid-digital-clock-debarred/issues",
+        "Category": "Date and Time",
+        "Icon": "preferences-system-time",
+        "EnabledByDefault": true,
+        "License": "GPL-2.0+",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "1.0",
+        "Website": "https://github.com/rickybrent/plasmoid-digital-clock-debarred"
+    },
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-Provides": [
+        "org.kde.plasma.time",
+        "org.kde.plasma.date"
+    ]
+}

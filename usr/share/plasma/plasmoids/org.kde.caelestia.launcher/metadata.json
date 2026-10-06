@@ -1,0 +1,23 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "aethelis@local",
+                "Name": "Aethelis"
+            }
+        ],
+        "Category": "Application Launchers",
+        "Description": "Caelestia Hyprland style application launcher, command palette, and interactive wallpaper picker for KDE Plasma 6",
+        "Icon": "caelestia-launcher",
+        "Id": "org.kde.caelestia.launcher",
+        "License": "GPL-3.0-or-later",
+        "Name": "Caelestia Launcher",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "1.0.0",
+        "Website": ""
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

@@ -120,9 +120,10 @@ toolBarFont=Sarasa Gothic K SemiBold,12,-1,5,600,0,0,0,0,0,0,0,0,0,0,1,Regular,0
 Theme=Fluent-dark
 
 [KDE]
+LookAndFeelPackage=windows.eleven.Dark.P6
+widgetStyle=Breeze
 AnimationDurationFactor=0.75
 DoubleClickInterval=300
-LookAndFeelPackage=windows.eleven.Dark.P6
 contrast=4
 frameContrast=0.2
 

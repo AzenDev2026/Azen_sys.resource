@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "neotje111@gmail.com",
+                "Name": "neotje"
+            }
+        ],
+        "Category": "Plasma 6 Splashscreens",
+        "Description": "A plasma 6 loadig bar splashscreen",
+        "Id": "nl.neo-web.ondev.loading-bar-splash-screen",
+        "License": "GPLv3",
+        "Name": "Loading bar splashscreen",
+        "Website": ""
+    }
+}
